@@ -14,7 +14,5 @@ class A:
         print('run')
 
 obj1 = A()
-obj2 = A()
 obj1.run()
-obj2.run()
 print(dir(A))
